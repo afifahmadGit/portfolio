@@ -25974,7 +25974,7 @@
                 ],
                 ["id", "span"],
                 [1, "btn"],
-                ["href", "../assets/afifahmad resume (3).pdf", "download", ""],
+                ["href", "./assets/afifahmad resume (3).pdf", "download", ""],
                 [1, "fa", "fa-download"],
                 [2, "display", "flex", "justify-content", "space-between"],
                 [
