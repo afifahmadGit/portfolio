@@ -26015,7 +26015,7 @@
                   "background-color",
                   "#dadada",
                 ],
-                ["src", "../assets/angular.png", "width", "50px"],
+                ["src", "./assets/angular.png", "width", "50px"],
               ],
               template: function (e, i) {
                 1 & e &&
